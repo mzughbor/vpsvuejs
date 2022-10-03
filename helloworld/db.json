@@ -1,0 +1,32 @@
+
+    [{
+      "id": 2,
+      "name": "ali",
+      "email": "ali@mail.com",
+      "password": "",
+      "createdAt": null
+    },
+    {
+      "name": "muaz12",
+      "email": "muaz12@mail.com",
+      "password": "123",
+      "createdAt": "Tue Sep 06 2022 11:09:17 GMT+0300 (Eastern European Summer Time)",
+      "id": 3
+    },
+    {
+      "name": "ahmad",
+      "email": "ahamd@mail.com",
+      "password": "12345",
+      "createdAt": "Tue Sep 06 2022 12:12:37 GMT+0300 (Eastern European Summer Time)",
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "name": "aasaseesd",
+      "email": "saseessd@mail.com",
+      "id": 6,
+      "password": ""
+    }
+    ]
